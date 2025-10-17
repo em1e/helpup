@@ -1,0 +1,7 @@
+to-do.md
+node_modules/
+.venv/
+__pycache__/
+.env
+docker-compose.yml
+backend/dockerfile
